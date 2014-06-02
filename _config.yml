@@ -1,5 +1,5 @@
 # Site settings
-title: <title>dev notes</title>
+title: "<title>dev notes</title>"
 email: your-email@domain.com
 description: "Just a blog for my dev notes"
 baseurl: ""
