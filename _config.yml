@@ -4,7 +4,7 @@ username: viktorsnt
 email: your-email@domain.com
 description: "Just a blog for my dev notes"
 pygments: true
-baseurl: ""
+baseurl: "http://viktorsnt.github.io/dev-notes"
 url: "http://viktorsnt.github.io/dev-notes"
 
 # Build settings
