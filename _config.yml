@@ -2,7 +2,8 @@
 title: "<title>dev notes</title>"
 email: your-email@domain.com
 description: "Just a blog for my dev notes"
-baseurl: ""
+pygments: true
+baseurl: "http://viktorsnt.github.io/dev-notes"
 url: "http://viktorsnt.github.io/dev-notes"
 
 # Build settings
