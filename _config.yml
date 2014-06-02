@@ -1,9 +1,10 @@
 # Site settings
-title: "<title>dev notes</title>"
-email: your-email@domain.com
+title: dev notes
+username: viktorsnt
+# email: your-email@domain.com
 description: "Just a blog for my dev notes"
 pygments: true
-baseurl: "http://viktorsnt.github.io/dev-notes"
+baseurl: ""
 url: "http://viktorsnt.github.io/dev-notes"
 
 # Build settings
