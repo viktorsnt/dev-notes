@@ -113,10 +113,14 @@ a:visited { color: #205caa; }
   width: calc(41.875%);
 }
 
-.site-footer ul { list-style: none; }
+.site-footer ul { 
+  list-style: none;
+  display: inline-block;
+}
 
 .site-footer li,
 .site-footer p {
+  display: inline-block;
   font-size: 15px;
   letter-spacing: -.3px;
   color: #828282;
