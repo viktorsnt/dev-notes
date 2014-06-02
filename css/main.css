@@ -126,6 +126,8 @@ a:visited { color: #205caa; }
   color: #828282;
 }
 
+.site-footer li a { margin-right: 10px; }
+
 .github-icon-svg,
 .twitter-icon-svg {
   display: inline-block;
