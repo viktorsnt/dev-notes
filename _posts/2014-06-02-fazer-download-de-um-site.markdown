@@ -10,7 +10,3 @@ categories: terminal linux download
 apenas utilizar o comando:
 
 	wget -m -p -P [diretório] [url]
-
-se quiser sincronizar:
-	
-	rsync -avz --delete [dir] [target dir]
